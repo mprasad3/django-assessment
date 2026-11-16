@@ -1,0 +1,11 @@
+Django==4.2.16
+djangorestframework==3.14.0
+celery==5.3.6
+redis==5.0.4
+django-silk==5.1.0
+pytest==8.3.3
+pytest-django==4.9.0
+fakeredis==2.26.1
+Faker==33.1.0
+kombu==5.3.4
+billiard==4.2.1
